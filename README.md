@@ -75,7 +75,8 @@ saveethaengg@gmail.com</div>
 <div style="position: absolute; top: 462px; left: 90px; color: #000000;">HAVE A GOOD DAY!</div>
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/3e765418-1de9-43a1-939a-2d91c6e6f5df)
+![image](https://github.com/user-attachments/assets/af7aad0f-b667-470c-b37c-2fbd2959ca3e)
+
 
 
 
